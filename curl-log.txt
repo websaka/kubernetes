@@ -1,0 +1,553 @@
+2025-12-11 17:19:39
+http_code: 200
+time_total: 0.028597s
+time_connect: 0.000227s
+time_starttransfer: 0.028539s
+----------------
+
+2025-12-11 17:19:40
+http_code: 200
+time_total: 0.030675s
+time_connect: 0.000209s
+time_starttransfer: 0.030611s
+----------------
+
+2025-12-11 17:19:41
+http_code: 200
+time_total: 0.022800s
+time_connect: 0.000220s
+time_starttransfer: 0.022742s
+----------------
+
+2025-12-11 17:19:42
+http_code: 200
+time_total: 0.022618s
+time_connect: 0.000209s
+time_starttransfer: 0.022552s
+----------------
+
+2025-12-11 17:19:43
+http_code: 200
+time_total: 0.030758s
+time_connect: 0.000220s
+time_starttransfer: 0.030528s
+----------------
+
+2025-12-11 17:19:44
+http_code: 200
+time_total: 0.027671s
+time_connect: 0.000208s
+time_starttransfer: 0.027605s
+----------------
+
+2025-12-11 17:19:45
+http_code: 200
+time_total: 0.021045s
+time_connect: 0.000217s
+time_starttransfer: 0.020953s
+----------------
+
+2025-12-11 17:19:46
+http_code: 502
+time_total: 0.001281s
+time_connect: 0.000196s
+time_starttransfer: 0.001208s
+----------------
+
+2025-12-11 17:19:47
+http_code: 504
+time_total: 60.059905s
+time_connect: 0.000206s
+time_starttransfer: 60.059809s
+----------------
+
+2025-12-11 17:20:48
+http_code: 200
+time_total: 0.036607s
+time_connect: 0.000204s
+time_starttransfer: 0.036510s
+----------------
+
+2025-12-11 17:20:49
+http_code: 200
+time_total: 0.021131s
+time_connect: 0.000244s
+time_starttransfer: 0.021013s
+----------------
+
+2025-12-11 17:20:51
+http_code: 200
+time_total: 0.245573s
+time_connect: 0.000204s
+time_starttransfer: 0.245470s
+----------------
+
+2025-12-11 17:20:52
+http_code: 200
+time_total: 0.023185s
+time_connect: 0.000241s
+time_starttransfer: 0.023105s
+----------------
+
+2025-12-11 17:20:53
+http_code: 200
+time_total: 0.028270s
+time_connect: 0.000230s
+time_starttransfer: 0.028212s
+----------------
+
+2025-12-11 17:20:54
+http_code: 200
+time_total: 0.021227s
+time_connect: 0.000211s
+time_starttransfer: 0.021154s
+----------------
+
+2025-12-11 17:20:55
+http_code: 200
+time_total: 0.018402s
+time_connect: 0.000207s
+time_starttransfer: 0.018327s
+----------------
+
+2025-12-11 17:20:56
+http_code: 200
+time_total: 0.028020s
+time_connect: 0.000229s
+time_starttransfer: 0.027961s
+----------------
+
+2025-12-11 17:20:57
+http_code: 200
+time_total: 0.021090s
+time_connect: 0.000221s
+time_starttransfer: 0.020986s
+----------------
+
+2025-12-11 17:20:58
+http_code: 200
+time_total: 0.020792s
+time_connect: 0.000245s
+time_starttransfer: 0.020733s
+----------------
+
+2025-12-11 17:20:59
+http_code: 200
+time_total: 0.036443s
+time_connect: 0.000196s
+time_starttransfer: 0.036380s
+----------------
+
+2025-12-11 17:21:00
+http_code: 200
+time_total: 0.020604s
+time_connect: 0.000249s
+time_starttransfer: 0.020502s
+----------------
+
+2025-12-11 17:21:01
+http_code: 200
+time_total: 0.035779s
+time_connect: 0.000199s
+time_starttransfer: 0.035723s
+----------------
+
+2025-12-11 17:21:02
+http_code: 200
+time_total: 0.020606s
+time_connect: 0.000248s
+time_starttransfer: 0.020514s
+----------------
+
+2025-12-11 17:21:03
+http_code: 200
+time_total: 0.028054s
+time_connect: 0.000212s
+time_starttransfer: 0.027961s
+----------------
+
+2025-12-11 17:21:04
+http_code: 200
+time_total: 0.020757s
+time_connect: 0.000218s
+time_starttransfer: 0.020683s
+----------------
+
+2025-12-11 17:21:05
+http_code: 200
+time_total: 0.020579s
+time_connect: 0.000196s
+time_starttransfer: 0.020517s
+----------------
+
+2025-12-11 17:21:06
+http_code: 200
+time_total: 0.028053s
+time_connect: 0.000208s
+time_starttransfer: 0.027986s
+----------------
+
+2025-12-11 17:21:07
+http_code: 200
+time_total: 0.021196s
+time_connect: 0.000217s
+time_starttransfer: 0.021133s
+----------------
+
+2025-12-11 17:21:08
+http_code: 200
+time_total: 0.020797s
+time_connect: 0.000211s
+time_starttransfer: 0.020727s
+----------------
+
+2025-12-11 17:21:09
+http_code: 200
+time_total: 0.028535s
+time_connect: 0.000259s
+time_starttransfer: 0.028469s
+----------------
+
+2025-12-11 17:21:10
+http_code: 200
+time_total: 0.028156s
+time_connect: 0.000194s
+time_starttransfer: 0.028091s
+----------------
+
+2025-12-11 17:21:11
+http_code: 200
+time_total: 0.021216s
+time_connect: 0.000200s
+time_starttransfer: 0.021126s
+----------------
+
+2025-12-11 17:21:13
+http_code: 200
+time_total: 0.028160s
+time_connect: 0.000217s
+time_starttransfer: 0.028098s
+----------------
+
+2025-12-11 17:21:14
+http_code: 200
+time_total: 0.028546s
+time_connect: 0.000213s
+time_starttransfer: 0.028487s
+----------------
+
+2025-12-11 17:21:15
+http_code: 200
+time_total: 0.020626s
+time_connect: 0.000214s
+time_starttransfer: 0.020569s
+----------------
+
+2025-12-11 17:21:16
+http_code: 200
+time_total: 0.028360s
+time_connect: 0.000218s
+time_starttransfer: 0.028294s
+----------------
+
+2025-12-11 17:21:17
+http_code: 200
+time_total: 0.020035s
+time_connect: 0.000222s
+time_starttransfer: 0.019970s
+----------------
+
+2025-12-11 17:21:18
+http_code: 200
+time_total: 0.028099s
+time_connect: 0.000240s
+time_starttransfer: 0.028031s
+----------------
+
+2025-12-11 17:21:19
+http_code: 200
+time_total: 0.028422s
+time_connect: 0.000192s
+time_starttransfer: 0.028336s
+----------------
+
+2025-12-11 17:21:20
+http_code: 200
+time_total: 0.019833s
+time_connect: 0.000200s
+time_starttransfer: 0.019768s
+----------------
+
+2025-12-11 17:21:21
+http_code: 200
+time_total: 0.027357s
+time_connect: 0.000158s
+time_starttransfer: 0.027289s
+----------------
+
+2025-12-11 17:21:22
+http_code: 200
+time_total: 0.028245s
+time_connect: 0.000216s
+time_starttransfer: 0.028186s
+----------------
+
+2025-12-11 17:21:23
+http_code: 200
+time_total: 0.020914s
+time_connect: 0.000218s
+time_starttransfer: 0.020815s
+----------------
+
+2025-12-11 17:21:24
+http_code: 200
+time_total: 0.028158s
+time_connect: 0.000236s
+time_starttransfer: 0.028038s
+----------------
+
+2025-12-11 17:21:25
+http_code: 200
+time_total: 0.021067s
+time_connect: 0.000225s
+time_starttransfer: 0.020979s
+----------------
+
+2025-12-11 17:21:26
+http_code: 200
+time_total: 0.020909s
+time_connect: 0.000212s
+time_starttransfer: 0.020805s
+----------------
+
+2025-12-11 17:21:27
+http_code: 200
+time_total: 0.028848s
+time_connect: 0.000221s
+time_starttransfer: 0.028791s
+----------------
+
+2025-12-11 17:21:28
+http_code: 200
+time_total: 0.027923s
+time_connect: 0.000209s
+time_starttransfer: 0.027865s
+----------------
+
+2025-12-11 17:21:29
+http_code: 200
+time_total: 0.021059s
+time_connect: 0.000204s
+time_starttransfer: 0.020982s
+----------------
+
+2025-12-11 17:21:30
+http_code: 200
+time_total: 0.020276s
+time_connect: 0.000225s
+time_starttransfer: 0.020210s
+----------------
+
+2025-12-11 17:21:31
+http_code: 200
+time_total: 0.028025s
+time_connect: 0.000220s
+time_starttransfer: 0.027943s
+----------------
+
+2025-12-11 17:21:32
+http_code: 200
+time_total: 0.028323s
+time_connect: 0.000220s
+time_starttransfer: 0.028252s
+----------------
+
+2025-12-11 17:21:33
+http_code: 200
+time_total: 0.020954s
+time_connect: 0.000216s
+time_starttransfer: 0.020896s
+----------------
+
+2025-12-11 17:21:34
+http_code: 200
+time_total: 0.028479s
+time_connect: 0.000182s
+time_starttransfer: 0.028412s
+----------------
+
+2025-12-11 17:21:35
+http_code: 200
+time_total: 0.020137s
+time_connect: 0.000208s
+time_starttransfer: 0.020065s
+----------------
+
+2025-12-11 17:21:36
+http_code: 200
+time_total: 0.021012s
+time_connect: 0.000216s
+time_starttransfer: 0.020953s
+----------------
+
+2025-12-11 17:21:37
+http_code: 200
+time_total: 0.028025s
+time_connect: 0.000332s
+time_starttransfer: 0.027957s
+----------------
+
+2025-12-11 17:21:38
+http_code: 200
+time_total: 0.028645s
+time_connect: 0.000287s
+time_starttransfer: 0.028584s
+----------------
+
+2025-12-11 17:21:40
+http_code: 200
+time_total: 0.020934s
+time_connect: 0.000209s
+time_starttransfer: 0.020859s
+----------------
+
+2025-12-11 17:21:41
+http_code: 200
+time_total: 0.028661s
+time_connect: 0.000216s
+time_starttransfer: 0.028599s
+----------------
+
+2025-12-11 17:21:42
+http_code: 200
+time_total: 0.028352s
+time_connect: 0.000200s
+time_starttransfer: 0.028260s
+----------------
+
+2025-12-11 17:21:43
+http_code: 200
+time_total: 0.020866s
+time_connect: 0.000216s
+time_starttransfer: 0.020771s
+----------------
+
+2025-12-11 17:21:44
+http_code: 200
+time_total: 0.028042s
+time_connect: 0.000198s
+time_starttransfer: 0.027962s
+----------------
+
+2025-12-11 17:21:45
+http_code: 200
+time_total: 0.027944s
+time_connect: 0.000216s
+time_starttransfer: 0.027862s
+----------------
+
+2025-12-11 17:21:46
+http_code: 200
+time_total: 0.020178s
+time_connect: 0.000239s
+time_starttransfer: 0.020118s
+----------------
+
+2025-12-11 17:21:47
+http_code: 200
+time_total: 0.028736s
+time_connect: 0.000210s
+time_starttransfer: 0.028661s
+----------------
+
+2025-12-11 17:21:48
+http_code: 200
+time_total: 0.019932s
+time_connect: 0.000211s
+time_starttransfer: 0.019855s
+----------------
+
+2025-12-11 17:21:49
+http_code: 200
+time_total: 0.020988s
+time_connect: 0.000207s
+time_starttransfer: 0.020926s
+----------------
+
+2025-12-11 17:21:50
+http_code: 200
+time_total: 0.027684s
+time_connect: 0.000229s
+time_starttransfer: 0.027626s
+----------------
+
+2025-12-11 17:21:51
+http_code: 200
+time_total: 0.020122s
+time_connect: 0.000194s
+time_starttransfer: 0.020056s
+----------------
+
+2025-12-11 17:21:52
+http_code: 200
+time_total: 0.019672s
+time_connect: 0.000217s
+time_starttransfer: 0.019614s
+----------------
+
+2025-12-11 17:21:53
+http_code: 200
+time_total: 0.028020s
+time_connect: 0.000215s
+time_starttransfer: 0.027962s
+----------------
+
+2025-12-11 17:21:54
+http_code: 200
+time_total: 0.020552s
+time_connect: 0.000186s
+time_starttransfer: 0.020476s
+----------------
+
+2025-12-11 17:21:55
+http_code: 200
+time_total: 0.020177s
+time_connect: 0.000223s
+time_starttransfer: 0.020100s
+----------------
+
+2025-12-11 17:21:56
+http_code: 200
+time_total: 0.027672s
+time_connect: 0.000224s
+time_starttransfer: 0.027609s
+----------------
+
+2025-12-11 17:21:57
+http_code: 200
+time_total: 0.020153s
+time_connect: 0.000240s
+time_starttransfer: 0.020079s
+----------------
+
+2025-12-11 17:21:58
+http_code: 200
+time_total: 0.020398s
+time_connect: 0.000223s
+time_starttransfer: 0.020324s
+----------------
+
+2025-12-11 17:21:59
+http_code: 200
+time_total: 0.028215s
+time_connect: 0.000231s
+time_starttransfer: 0.028059s
+----------------
+
+2025-12-11 17:22:00
+http_code: 200
+time_total: 0.020533s
+time_connect: 0.000214s
+time_starttransfer: 0.020460s
+----------------
+
