@@ -1,0 +1,26 @@
+{
+  "label": "🚀 Tutorial - Kubernetes Cluster",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Belajar Konfigurasi Kubernetes Cluster dengan CRI-O Container Manager. Panduan lengkap untuk membangun dan mengelola cluster Kubernetes produksi dengan container runtime CRI-O yang ringan dan efisien.",
+    "slug": "/kubernetes-cluster",
+    "keywords": ["kubernetes", "k8s", "cri-o", "container", "orchestration", "cluster", "devops", "cloud-native"]
+  },
+  "customProps": {
+    "icon": "☸️",
+    "color": "#326ce5",
+    "badge": "Lengkap",
+    "difficulty": "Intermediate",
+    "estimatedTime": "45 menit",
+    "prerequisites": ["Docker Dasar", "Linux CLI", "YAML"],
+    "features": [
+      "Instalasi CRI-O",
+      "Konfigurasi Master Node",
+      "Setup Worker Nodes",
+      "Network Plugin",
+      "Storage Configuration",
+      "Monitoring & Logging"
+    ]
+  }
+}
